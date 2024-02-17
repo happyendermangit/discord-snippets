@@ -13,7 +13,11 @@ const Authors = {
         name:"Elysia.dev",
         id:"721746046543331449",
         pfp:"ELLIE.webp"
-    }
+    },
+    FoUnDeR:{
+    name:"FoUnDeR",
+    id:"965629616012267570",
+    pfp:"FoUnDeR.png",
 }
 
 export default Authors
