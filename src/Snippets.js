@@ -25,6 +25,12 @@ const Snippets = [
         date:"Monday, Feb, 5,2024",
         author:Authors.ELLIE
     },
-    
+    {
+        title:"View Guilds",
+        id:"view-guilds", 
+        tags:["🚀 Utility"], // you can either keep it empty or add a tag as a string
+        author:Authors.FoUnDeR,
+        shortDesc:"Allows you to view a guild without joining for the reset of your session.",
+    },
 ]
 export default Snippets
