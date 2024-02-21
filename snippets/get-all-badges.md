@@ -84,6 +84,12 @@ const allBadges = [
         icon: '6bdc42827a38498929a4920da12695d9',
         link: 'https://support-dev.discord.com/hc/en-us/articles/10113997751447?ref=badge',
     },
+    {
+        id: 'premium', // Nitro badge
+        description: 'Subscriber since Mar 13, 2015',
+        icon: '2ba85e8026a8614b640c2837bcdfe21b',
+        link: 'https://discord.com/settings/premium',
+    },
 ];
 const botBadges = [
     {
